@@ -3,10 +3,10 @@
     font-size: 16px;
 }
 body{
-    background-color: rgb(rgb(241, 9, 9), green, blue);
+    background-color: rgb(rgb(241, 9, 9), rgb(59, 12, 231), blue);
 }
 main{
-    background-color: aqua;
+    background-color: rgb(9, 240, 248);
     width: 500px;
     margin: auto;
     padding: 10px;
