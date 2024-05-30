@@ -3,13 +3,13 @@
     font-size: 16px;
 }
 body{
-    background-color: rgb(rgb(157, 218, 15), green, blue);
+    background-color: rgb(rgb(241, 9, 9), green, blue);
 }
 main{
     background-color: aqua;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgb(rgb(97, 12, 207), green, blue);
+    box-shadow: 3px 3px 5px rgb(rgb(240, 180, 17), green, blue);
 
 }
